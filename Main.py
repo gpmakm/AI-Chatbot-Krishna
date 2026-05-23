@@ -7,7 +7,7 @@ import pyjokes
 speaker = win32com.client.Dispatch("SAPI.SpVoice")
 #speaker.Speak("Hello, it is MaYa")
 # print("Welcome to AI world")
-
+wikipedia.set_user_agent('SAHAYAK_v1')
 def openWikipedia():
     title=input(("Enter your topic to get knowledge dude-"))
     limit=int(input("Enter your limit for the discussion in sentences-"))
@@ -28,7 +28,8 @@ jm.intro()
 jm.greet()
 
 tool=input("How is your day? How may i help you?")
-if "to know about" in tool:
+if ("to know about" in tool) or ("tell me about " in tool) or ("what is" in tool):
+
     openWikipedia()
 # elif tool=="Java Notes":
     # openJavaNotes()
