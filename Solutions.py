@@ -24,7 +24,7 @@ def Health():
     h=news.find("Ha")
     if c>=0 or h>0:
 
-        time=input("Good kb li medicine, i mean kitne time pehle, hours btana?")
+        time=int(input("Good kb li medicine, i mean kitne time pehle, hours btana?"))
 
         if time>4:
             staus=input("Ab tk to tumhe thoda/bahut relief mil hi gaya hoga- Ha ya Na?")

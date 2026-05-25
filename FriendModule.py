@@ -1,3 +1,6 @@
+import geeta as gt
+import Solutions as sol
+
 def greet():
     user = "User "
     askNews = "Kaisa h tu?"
@@ -27,6 +30,12 @@ def greet():
         problemFile = open("problemsList.txt", "r")
         print(problemFile.read())
         prob = int(input(askProblem))
+        if prob==1:
+           sol.Health()
+        elif prob==2:
+            sol.hurt()
+        else:
+            print("No problems happy life")
 
 
 greet()
