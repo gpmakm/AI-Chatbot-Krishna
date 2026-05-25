@@ -27,11 +27,11 @@ def openWikipedia():
 jm.intro()
 jm.greet()
 
-tool=input("How is your day? How may i help you?or Want to talk with machine friend??")
+tool=input("How is your day? How may i help you? or Want to talk with machine friend??")
 if ("to know about" in tool) or ("tell me about " in tool) or ("what is" in tool):
 
     openWikipedia()
-elif "talk to machine friend" in tool:
+elif ("talk to machine friend" in tool) or ("not okay" in tool) or ("frustrated" in tool):
     import FriendModule as fm
     fm.greet()
 # elif tool=="Java Notes":
