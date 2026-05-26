@@ -1,0 +1,406 @@
+{
+  "hindi_jokes": [
+    {
+      "id": 1,
+      "joke": "टीचर: होमवर्क क्यों नहीं किया? छात्र: सर, बिजली चली गई थी। टीचर: तो मोमबत्ती जला लेते। छात्र: माचिस पड़ोसी ले गए थे।"
+    },
+    {
+      "id": 2,
+      "joke": "पत्नी: सुनो जी, मेरी याददाश्त बहुत कमजोर हो गई है। पति: कब से? पत्नी: क्या कब से?"
+    },
+    {
+      "id": 3,
+      "joke": "डॉक्टर: तुम्हें आराम की जरूरत है। मरीज: लेकिन मैं तो ऑफिस में ही आराम करता हूँ।"
+    },
+    {
+      "id": 4,
+      "joke": "टीचर: दुनिया का सबसे खतरनाक जानवर कौन है? छात्र: वाई-फाई बंद करने वाला इंसान।"
+    },
+    {
+      "id": 5,
+      "joke": "दोस्त: तू इतना खुश क्यों है? दूसरा दोस्त: आज मम्मी ने कहा है कि मोबाइल कम चलाओ, इसलिए लैपटॉप चला रहा हूँ।"
+    },
+    {
+      "id": 6,
+      "joke": "पप्पू: मैं बहुत तेज दौड़ सकता हूँ। गप्पू: कितना तेज? पप्पू: इतना तेज कि इंटरनेट भी पीछे रह जाए।"
+    },
+    {
+      "id": 7,
+      "joke": "पत्नी: मैं मोटी लग रही हूँ क्या? पति: नहीं, तुम तो बस ज्यादा दिखाई दे रही हो।"
+    },
+    {
+      "id": 8,
+      "joke": "टीचर: बताओ चाँद पर पहला कदम किसने रखा? छात्र: जिसने दूसरा कदम रखने से पहले पहला रखा होगा।"
+    },
+    {
+      "id": 9,
+      "joke": "मम्मी: पढ़ाई कर लो। बेटा: अभी मूड नहीं है। मम्मी: मोबाइल चलाने का मूड कैसे आ जाता है?"
+    },
+    {
+      "id": 10,
+      "joke": "दो दोस्त होटल गए। वेटर: क्या लोगे? पहला दोस्त: खाना। दूसरा दोस्त: मैं भी वही लूँगा।"
+    },
+    {
+      "id": 11,
+      "joke": "टीचर: अगर पृथ्वी गोल है तो लोग गिरते क्यों नहीं? छात्र: क्योंकि सबको आदत हो गई है।"
+    },
+    {
+      "id": 12,
+      "joke": "पापा: रिजल्ट कैसा आया? बेटा: पड़ोसी के बेटे से अच्छा। पापा: उसके कितने आए? बेटा: वो फेल हो गया।"
+    },
+    {
+      "id": 13,
+      "joke": "पत्नी: मैं तुम्हें छोड़ दूँगी। पति: ठीक है, जाते समय दूध लेते आना।"
+    },
+    {
+      "id": 14,
+      "joke": "टीचर: बताओ सबसे ज्यादा नींद कब आती है? छात्र: पढ़ाई करते समय।"
+    },
+    {
+      "id": 15,
+      "joke": "दोस्त: तू रोज जिम क्यों जाता है? दूसरा: ताकि लोग पूछें कि जिम जाता है क्या।"
+    },
+    {
+      "id": 16,
+      "joke": "मम्मी: कमरे की सफाई कर लो। बेटा: अभी तो किया था। मम्मी: कब? बेटा: सपने में।"
+    },
+    {
+      "id": 17,
+      "joke": "टीचर: ईमानदारी क्या है? छात्र: परीक्षा में दोस्त को जवाब न बताना।"
+    },
+    {
+      "id": 18,
+      "joke": "पप्पू: मैं बहुत समझदार हूँ। गप्पू: कैसे? पप्पू: क्योंकि मैं अपनी गलती दूसरों पर डाल देता हूँ।"
+    },
+    {
+      "id": 19,
+      "joke": "पत्नी: मेरी कौन सी आदत सबसे अच्छी लगती है? पति: चुप रहने वाली।"
+    },
+    {
+      "id": 20,
+      "joke": "टीचर: बिजली कहाँ से आती है? छात्र: मामा के घर से। टीचर: कैसे? छात्र: क्योंकि पापा कहते हैं कि बिजली फिर मामा के यहाँ चली गई।"
+    },
+    {
+      "id": 21,
+      "joke": "डॉक्टर: पानी ज्यादा पिया करो। मरीज: लेकिन डॉक्टर साहब, पानी देखकर ही प्यास भाग जाती है।"
+    },
+    {
+      "id": 22,
+      "joke": "दोस्त: तू इतना लेट क्यों आया? दूसरा: रास्ते में बोर्ड लिखा था ‘आगे स्कूल है, धीरे चलें’।"
+    },
+    {
+      "id": 23,
+      "joke": "पापा: मोबाइल छोड़ दो। बेटा: ठीक है, पहले आप टीवी छोड़िए।"
+    },
+    {
+      "id": 24,
+      "joke": "टीचर: नकल करना बुरी बात है। छात्र: लेकिन शेयरिंग इज केयरिंग।"
+    },
+    {
+      "id": 25,
+      "joke": "पत्नी: मैं कैसी लग रही हूँ? पति: कसम से दिल खुश हो गया। पत्नी: सच में? पति: हाँ, डर के मारे धड़कना बंद जो हो गया।"
+    },
+    {
+      "id": 26,
+      "joke": "मम्मी: सब्जी कैसी बनी है? बेटा: इतनी अच्छी कि कुत्ता भी नहीं खा रहा।"
+    },
+    {
+      "id": 27,
+      "joke": "टीचर: सबसे तेज क्या चलता है? छात्र: छुट्टी का समय।"
+    },
+    {
+      "id": 28,
+      "joke": "दोस्त: तू हमेशा फोन में क्यों लगा रहता है? दूसरा: क्योंकि जिंदगी में और कोई नेटवर्क नहीं है।"
+    },
+    {
+      "id": 29,
+      "joke": "पप्पू: मैं रात भर नहीं सोया। गप्पू: क्यों? पप्पू: सपने में नींद आ गई थी।"
+    },
+    {
+      "id": 30,
+      "joke": "टीचर: मेहनत का फल क्या होता है? छात्र: छुट्टी।"
+    },
+    {
+      "id": 31,
+      "joke": "पत्नी: मैं घर छोड़कर जा रही हूँ। पति: लो, ये चिप्स भी लेती जाओ रास्ते में भूख लगेगी।"
+    },
+    {
+      "id": 32,
+      "joke": "दोस्त: तेरी सबसे बड़ी ताकत क्या है? दूसरा: मैं बिना वजह भी बहस कर सकता हूँ।"
+    },
+    {
+      "id": 33,
+      "joke": "टीचर: अगर तुम पढ़ोगे नहीं तो क्या बनोगे? छात्र: मोटिवेशनल स्पीकर।"
+    },
+    {
+      "id": 34,
+      "joke": "मम्मी: जल्दी उठ जाओ। बेटा: सपना अधूरा रह जाएगा।"
+    },
+    {
+      "id": 35,
+      "joke": "पापा: खर्चे बहुत बढ़ गए हैं। बेटा: तो मुझे अमीर बना दो।"
+    },
+    {
+      "id": 36,
+      "joke": "टीचर: बताओ सबसे शांत जगह कौन सी है? छात्र: परीक्षा हॉल।"
+    },
+    {
+      "id": 37,
+      "joke": "दोस्त: तू इतना हँस क्यों रहा है? दूसरा: क्योंकि रोने से कुछ नहीं बदलता।"
+    },
+    {
+      "id": 38,
+      "joke": "पत्नी: मेरी बात ध्यान से सुना करो। पति: कोशिश करता हूँ, लेकिन नींद आ जाती है।"
+    },
+    {
+      "id": 39,
+      "joke": "टीचर: कौन सा पक्षी उड़ नहीं सकता? छात्र: मरा हुआ पक्षी।"
+    },
+    {
+      "id": 40,
+      "joke": "पप्पू: मुझे हर चीज जल्दी समझ आ जाती है। गप्पू: तो पढ़ाई क्यों नहीं करते? पप्पू: क्योंकि वो समझ नहीं आती।"
+    },
+    {
+      "id": 41,
+      "joke": "मम्मी: खाना खा लो। बेटा: पहले फोटो ले लूँ, दोस्तों को जलाना है।"
+    },
+    {
+      "id": 42,
+      "joke": "टीचर: बताओ इंटरनेट का आविष्कार किसने किया? छात्र: जिसने होमवर्क से बचना चाहा होगा।"
+    },
+    {
+      "id": 43,
+      "joke": "दोस्त: प्यार क्या है? दूसरा: फ्री वाई-फाई जैसा, कब चला जाए पता नहीं।"
+    },
+    {
+      "id": 44,
+      "joke": "पत्नी: क्या मैं तुम्हारी जिंदगी की रोशनी हूँ? पति: हाँ, इसलिए बिल ज्यादा आता है।"
+    },
+    {
+      "id": 45,
+      "joke": "टीचर: अगर मेहनत सफलता की चाबी है तो? छात्र: मैं ताला ही बदल दूँगा।"
+    },
+    {
+      "id": 46,
+      "joke": "पापा: तुम बड़े होकर क्या बनोगे? बेटा: छुट्टी पर रहने वाला इंसान।"
+    },
+    {
+      "id": 47,
+      "joke": "दोस्त: तू इतना कन्फ्यूज क्यों रहता है? दूसरा: शायद हूँ... या नहीं हूँ।"
+    },
+    {
+      "id": 48,
+      "joke": "टीचर: समय बहुत कीमती होता है। छात्र: इसलिए मैं देर से आता हूँ।"
+    },
+    {
+      "id": 49,
+      "joke": "पत्नी: क्या तुम मुझसे प्यार करते हो? पति: हाँ, वाई-फाई से भी ज्यादा।"
+    },
+    {
+      "id": 50,
+      "joke": "पप्पू: जिंदगी में सबसे बड़ा दुख क्या है? गप्पू: फोन 1% पर हो और चार्जर दूसरे कमरे में।"
+    }
+  ],
+  "creative_jokes": [
+    {
+      "id": 1,
+      "joke": "AI said it needed a break, so I turned off the Wi-Fi. Now it’s meditating."
+    },
+    {
+      "id": 2,
+      "joke": "My code works perfectly... until someone watches me run it."
+    },
+    {
+      "id": 3,
+      "joke": "I asked the cloud for storage. It replied with rain."
+    },
+    {
+      "id": 4,
+      "joke": "Debugging is like being a detective in a crime movie where you are also the criminal."
+    },
+    {
+      "id": 5,
+      "joke": "My laptop and I have a lot in common. We both overheat under pressure."
+    },
+    {
+      "id": 6,
+      "joke": "The robot became a chef because it loved byte-sized meals."
+    },
+    {
+      "id": 7,
+      "joke": "I opened the fridge for motivation. All I found was cold silence."
+    },
+    {
+      "id": 8,
+      "joke": "The calendar’s favorite sport is dates racing."
+    },
+    {
+      "id": 9,
+      "joke": "My alarm clock and I are in a toxic relationship."
+    },
+    {
+      "id": 10,
+      "joke": "The keyboard went to therapy because people kept pushing its buttons."
+    },
+    {
+      "id": 11,
+      "joke": "I tried to organize my desk, but the chaos filed an appeal."
+    },
+    {
+      "id": 12,
+      "joke": "The moon skipped dinner because it was already full."
+    },
+    {
+      "id": 13,
+      "joke": "My phone battery lasts longer when I don’t use my phone. Revolutionary discovery."
+    },
+    {
+      "id": 14,
+      "joke": "The pencil quit its job because life felt pointless."
+    },
+    {
+      "id": 15,
+      "joke": "Coffee understands me more than most humans do."
+    },
+    {
+      "id": 16,
+      "joke": "The Wi-Fi signal disappeared faster than my motivation on Monday morning."
+    },
+    {
+      "id": 17,
+      "joke": "I asked my mirror for advice. It reflected deeply."
+    },
+    {
+      "id": 18,
+      "joke": "The notebook was confident because it always had backup pages."
+    },
+    {
+      "id": 19,
+      "joke": "My brain has too many tabs open."
+    },
+    {
+      "id": 20,
+      "joke": "The broom got promoted because it always swept the competition away."
+    },
+    {
+      "id": 21,
+      "joke": "I told my plant a joke. Now it’s growing with laughter."
+    },
+    {
+      "id": 22,
+      "joke": "The clock is always stressed because time is running out."
+    },
+    {
+      "id": 23,
+      "joke": "I tried to be productive today. Tomorrow looks promising too."
+    },
+    {
+      "id": 24,
+      "joke": "The charger and phone had a powerful connection."
+    },
+    {
+      "id": 25,
+      "joke": "The computer failed art class because it couldn’t draw conclusions."
+    },
+    {
+      "id": 26,
+      "joke": "I named my hard drive ‘Homework’ so I stop deleting it."
+    },
+    {
+      "id": 27,
+      "joke": "The sandwich started a podcast called ‘Between the Bread.’"
+    },
+    {
+      "id": 28,
+      "joke": "My chair supports me more than society does."
+    },
+    {
+      "id": 29,
+      "joke": "The calculator retired because people kept counting on it."
+    },
+    {
+      "id": 30,
+      "joke": "I downloaded a fitness app. My phone lost weight, not me."
+    },
+    {
+      "id": 31,
+      "joke": "The refrigerator and I both stare blankly when bored."
+    },
+    {
+      "id": 32,
+      "joke": "The light bulb felt enlightened after reading philosophy."
+    },
+    {
+      "id": 33,
+      "joke": "I cleaned my room and found things from three different eras."
+    },
+    {
+      "id": 34,
+      "joke": "The cloud broke up with the sun because the relationship was too intense."
+    },
+    {
+      "id": 35,
+      "joke": "My internet speed is faster when nobody needs it."
+    },
+    {
+      "id": 36,
+      "joke": "The spoon and fork had a serious dinner discussion."
+    },
+    {
+      "id": 37,
+      "joke": "I asked my computer for patience. It showed me a loading screen."
+    },
+    {
+      "id": 38,
+      "joke": "The pillow deserves an award for emotional support."
+    },
+    {
+      "id": 39,
+      "joke": "The fan is the hardest-working employee in summer."
+    },
+    {
+      "id": 40,
+      "joke": "I tried talking to my printer nicely. It still had paper issues."
+    },
+    {
+      "id": 41,
+      "joke": "The banana became famous because it appealed to everyone."
+    },
+    {
+      "id": 42,
+      "joke": "My wallet and onion both make me cry."
+    },
+    {
+      "id": 43,
+      "joke": "The staircase was confident because it was always stepping up."
+    },
+    {
+      "id": 44,
+      "joke": "I told my code to behave. It threw an exception."
+    },
+    {
+      "id": 45,
+      "joke": "The potato became a motivational speaker because it believed in growth underground."
+    },
+    {
+      "id": 46,
+      "joke": "The mouse clicked with everyone instantly."
+    },
+    {
+      "id": 47,
+      "joke": "My study table has seen more snacks than books."
+    },
+    {
+      "id": 48,
+      "joke": "The dictionary is surprisingly speechless sometimes."
+    },
+    {
+      "id": 49,
+      "joke": "The sunglasses are shady by nature."
+    },
+    {
+      "id": 50,
+      "joke": "The AI wrote poetry because even algorithms have feelings about semicolons."
+    }
+  ]
+}
