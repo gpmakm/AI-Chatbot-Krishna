@@ -1,5 +1,4 @@
-{
-  "hindi_jokes": [
+ [
     {
       "id": 1,
       "joke": "टीचर: होमवर्क क्यों नहीं किया? छात्र: सर, बिजली चली गई थी। टीचर: तो मोमबत्ती जला लेते। छात्र: माचिस पड़ोसी ले गए थे।"
@@ -200,8 +199,7 @@
       "id": 50,
       "joke": "पप्पू: जिंदगी में सबसे बड़ा दुख क्या है? गप्पू: फोन 1% पर हो और चार्जर दूसरे कमरे में।"
     }
-  ],
-  "creative_jokes": [
+  ,
     {
       "id": 1,
       "joke": "AI said it needed a break, so I turned off the Wi-Fi. Now it’s meditating."
@@ -403,4 +401,4 @@
       "joke": "The AI wrote poetry because even algorithms have feelings about semicolons."
     }
   ]
-}
+
