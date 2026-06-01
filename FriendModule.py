@@ -1,5 +1,6 @@
 import geeta as gt
 import Solutions as sol
+import jokes as jk
 
 def greet():
     user = "User "

@@ -7,7 +7,7 @@ import pyjokes
 speaker = win32com.client.Dispatch("SAPI.SpVoice")
 #speaker.Speak("Hello, it is MaYa")
 # print("Welcome to AI world")
-wikipedia.set_user_agent('SAHAYAK_v1')
+wikipedia.set_user_agent('PyMitra')
 def openWikipedia():
     title=input(("Enter your topic to get knowledge dude-"))
     limit=int(input("Enter your limit for the discussion in sentences-"))
