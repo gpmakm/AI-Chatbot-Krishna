@@ -1,0 +1,63 @@
+COMMON MEDICINES FOR FEVER
+1. Paracetamol (Acetaminophen)
+2. Ibuprofen
+3. Aspirin (Adults only)
+4. Naproxen
+5. Nimesulide
+6. Diclofenac
+7. Indomethacin
+8. Ketorolac
+9. Metamizole (Analgin)
+10. Celecoxib
+
+COMMON MEDICINES FOR COUGH
+11. Dextromethorphan
+12. Benzonatate (Tessalon Perles)
+13. Codeine
+14. Guaifenesin (Mucinex)
+15. Potassium Iodide
+16. Bromhexine
+17. Ambroxol
+18. Levodropropizine
+19. Hydrocodone + Chlorpheniramine
+20. Promethazine DM
+
+COMMON MEDICINES FOR COLD & ALLERGIES
+21. Cetirizine
+22. Loratadine
+23. Fexofenadine
+24. Diphenhydramine (Benadryl)
+25. Chlorpheniramine
+26. Brompheniramine
+27. Doxylamine
+28. Phenylephrine
+29. Pseudoephedrine
+30. Oxymetazoline (nasal spray)
+
+OTHER COMMONLY PRESCRIBED MEDICINES
+31. Levothyroxine (Synthroid) – thyroid
+32. Rosuvastatin (Crestor) – cholesterol
+33. Esomeprazole (Nexium) – acidity/GERD
+34. Omeprazole – acidity/GERD
+35. Albuterol (Ventolin) – asthma
+36. Fluticasone/Salmeterol (Advair) – asthma/COPD
+37. Tiotropium (Spiriva) – COPD
+38. Budesonide/Formoterol (Symbicort) – asthma
+39. Valsartan (Diovan) – hypertension
+40. Olmesartan (Benicar) – hypertension
+41. Metoprolol (Toprol-XL) – hypertension
+42. Hydrochlorothiazide – hypertension
+43. Metformin – diabetes
+44. Sitagliptin (Januvia) – diabetes
+45. Insulin Glargine (Lantus) – diabetes
+46. Insulin Aspart (Novolog) – diabetes
+47. Duloxetine (Cymbalta) – depression/anxiety
+48. Pregabalin (Lyrica) – nerve pain
+49. Aripiprazole (Abilify) – schizophrenia/bipolar
+50. Azithromycin – bacterial infections
+
+SAFETY NOTES:
+- Avoid Aspirin in children (risk of Reye’s syndrome).
+- Many cough syrups are not recommended under age 6.
+- NSAIDs (Ibuprofen, Naproxen, Diclofenac) can irritate stomach/kidneys if misused.
+- Antibiotics (Azithromycin, Amoxicillin) should only be taken when prescribed.
