@@ -1,5 +1,5 @@
 import wikipedia
-import geeta
+import Jokes as j
 import win32com.client
 speaker=win32com.client.Dispatch("SAPI.SpVoice")
 def openWikipedia():
@@ -42,8 +42,7 @@ def Health():
         hh=choice.find("Nhi")
         if n>=0 or nn>=0:
 
-            jokes=open("Jokes.txt","r")
-            print(jokes.readlines(6))
+            j.tellJoke()
             more=input("Aur v jokes sun ne ka mann h kya? -- type More or cancel -- ")
         elif h>=0 or hh>=0:
             print("Okay nhi sunata hu rhne do")
@@ -111,8 +110,7 @@ def hurt():
                 nc21=newChoice.find("gyan")
                 if nc>=0 or nc1>=0:
                     openWikipedia()
-                elif nc2>=0 or nc21>=0:
-                    openGeeta()
+                
                 else:
                     print("Nothing chosen plz choose one of the option, Cancelling the program!")
 

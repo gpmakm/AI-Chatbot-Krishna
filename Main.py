@@ -1,7 +1,7 @@
 import wikipedia
 import win32com.client
 import JavaModule as jm 
-import pyjokes
+
 
 #Set sapi.SpVoice=sapi.Getvoices.Item(1)
 speaker = win32com.client.Dispatch("SAPI.SpVoice")
@@ -34,6 +34,18 @@ if ("to know about" in tool) or ("tell me about " in tool) or ("what is" in tool
 elif ("talk to machine friend" in tool) or ("not okay" in tool) or ("frustrated" in tool):
     import FriendModule as fm
     fm.greet()
+
+else:
+    
+    tool=input("How is your day? How may i help you? or Want to talk with machine friend??")
+    if ("to know about" in tool) or ("tell me about " in tool) or ("what is" in tool):
+
+        openWikipedia()
+    elif ("talk to machine friend" in tool) or ("not okay" in tool) or ("frustrated" in tool):
+        import FriendModule as fm
+        fm.greet()
+    else:
+        pass
 # elif tool=="Java Notes":
     # openJavaNotes()
 
