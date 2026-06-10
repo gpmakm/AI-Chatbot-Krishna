@@ -31,7 +31,7 @@ tool=input("How is your day? How may i help you? or Want to talk with machine fr
 if ("to know about" in tool) or ("tell me about " in tool) or ("what is" in tool):
 
     openWikipedia()
-elif ("talk to machine friend" in tool) or ("not okay" in tool) or ("frustrated" in tool):
+elif ("machine friend" in tool) or ("not okay" in tool) or ("frustrated" in tool) or ("lonely" in tool):
     
     #jm.greet()
     fm.greet(name)
