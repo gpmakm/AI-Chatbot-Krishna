@@ -39,4 +39,4 @@ def greet(name):
             print("No problems happy life")
 
 
-greet()
+# greet(name)
