@@ -2,12 +2,12 @@ import geeta as gt
 import Solutions as sol
 
 
-def greet():
+def greet(name):
     user = "User "
     askNews = "Kaisa h tu?"
     askSadIf = "Yaara kya hua?"
     askProblem = "Yaara jo problem h openly bolne ka, or ha number diya h wo enter kr-"
-    name = input("Radhe Radhe yaara, Ek kaam kro apna naam btao taaki kaam ho paye aage-")
+    # name = input("Radhe Radhe yaara, Ek kaam kro apna naam btao taaki kaam ho paye aage-")
     gender = input("Ha gender v bta dena taaki achhe se baat kr skoo mai-")
     if gender == "male":
         user = user.replace("User", "Bhai")

@@ -33,7 +33,8 @@ if ("to know about" in tool) or ("tell me about " in tool) or ("what is" in tool
     openWikipedia()
 elif ("talk to machine friend" in tool) or ("not okay" in tool) or ("frustrated" in tool):
     import FriendModule as fm
-    fm.greet()
+    n=jm.greet()
+    fm.greet(n)
 
 else:
     
@@ -41,9 +42,9 @@ else:
     if ("to know about" in tool) or ("tell me about " in tool) or ("what is" in tool):
 
         openWikipedia()
-    elif ("talk to machine friend" in tool) or ("not okay" in tool) or ("frustrated" in tool):
+    elif ("talk to machine friend" in tool) or ("not okay" in tool) or ("frustrated" in tool) or ("machine friend"):
         import FriendModule as fm
-        fm.greet()
+        fm.greet(n)
     else:
         pass
 # elif tool=="Java Notes":
